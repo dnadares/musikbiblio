@@ -18,3 +18,15 @@ Django install
 Configuration
 -------------
   Rename settings_local.template to settings_local.py and configure it to your needs.
+
+Running
+-------
+  Two steps are needed to have the development server up and running.
+
+  1. When it's the first time you checkout or when you changed the django models then you need to run this: ::
+
+    python manage.py syncdb
+
+  2. Then to run the development server run this: ::
+
+    python manage.py runserver
