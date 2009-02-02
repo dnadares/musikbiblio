@@ -1,0 +1,37 @@
+===========
+musikbiblio
+===========
+
+:Author: Michel Peterson <mpeterson@musikbiblio.com>
+:Author: Diego Mascialino <dmascialino@musikbiblio.com>
+:Author: Diego Nadares <dnadares@musikbiblio.com>
+:Author: Ariel George <ageorge@musikbiblio.com>
+
+.. _musikbiblio: http://musikbiblio.com/
+
+Introduction
+============
+  musikbiblio pretends to fill the apparent gap that there is with music organizers. After trying several, none of them
+  met all the requirements we wanted on a single program... Using several just didn't sound right.
+
+  musikbiblio is divided into two different parts. A web frontend which let users see what we have in our database and
+  contribute to it. And a desktop frontend which lets the users tag and organize their music libraries.
+
+License
+=======
+  This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General
+  Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option)
+  any later version.
+
+  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+  warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for
+  more details.
+
+  You should have received a copy of the GNU Affero General Public License along with this program.  If not,
+  see <http://www.gnu.org/licenses/>.
+
+  Please see the COPYING file for license details.
+
+Install
+=======
+  Please see the INSTALL file for installation details.

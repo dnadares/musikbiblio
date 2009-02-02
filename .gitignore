@@ -1,0 +1,4 @@
+settings_local.py
+*.pyc
+core/project.db
+core/static/covers
